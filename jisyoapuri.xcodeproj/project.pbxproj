@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		64925F1D22F59B390087C22D /* 辞書アプリ.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "辞書アプリ.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		64925F1D22F59B390087C22D /* jisyoapuri.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = jisyoapuri.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		64925F2022F59B390087C22D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		64925F2222F59B390087C22D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		64925F2522F59B390087C22D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		64925F1E22F59B390087C22D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				64925F1D22F59B390087C22D /* 辞書アプリ.app */,
+				64925F1D22F59B390087C22D /* jisyoapuri.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		64925F1C22F59B390087C22D /* 辞書アプリ */ = {
+		64925F1C22F59B390087C22D /* jisyoapuri */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 64925F2F22F59B3E0087C22D /* Build configuration list for PBXNativeTarget "辞書アプリ" */;
+			buildConfigurationList = 64925F2F22F59B3E0087C22D /* Build configuration list for PBXNativeTarget "jisyoapuri" */;
 			buildPhases = (
 				64925F1922F59B390087C22D /* Sources */,
 				64925F1A22F59B390087C22D /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = "辞書アプリ";
+			name = jisyoapuri;
 			productName = "辞書アプリ";
-			productReference = 64925F1D22F59B390087C22D /* 辞書アプリ.app */;
+			productReference = 64925F1D22F59B390087C22D /* jisyoapuri.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -99,7 +99,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 64925F1822F59B390087C22D /* Build configuration list for PBXProject "辞書アプリ" */;
+			buildConfigurationList = 64925F1822F59B390087C22D /* Build configuration list for PBXProject "jisyoapuri" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				64925F1C22F59B390087C22D /* 辞書アプリ */,
+				64925F1C22F59B390087C22D /* jisyoapuri */,
 			);
 		};
 /* End PBXProject section */
@@ -315,7 +315,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		64925F1822F59B390087C22D /* Build configuration list for PBXProject "辞書アプリ" */ = {
+		64925F1822F59B390087C22D /* Build configuration list for PBXProject "jisyoapuri" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				64925F2D22F59B3E0087C22D /* Debug */,
@@ -324,7 +324,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		64925F2F22F59B3E0087C22D /* Build configuration list for PBXNativeTarget "辞書アプリ" */ = {
+		64925F2F22F59B3E0087C22D /* Build configuration list for PBXNativeTarget "jisyoapuri" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				64925F3022F59B3E0087C22D /* Debug */,
